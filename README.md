@@ -5,3 +5,4 @@ i hope i ll get better
 #420
 nice
 return "hello"
+return "bye"
